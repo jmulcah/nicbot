@@ -1,0 +1,16 @@
+{
+  "name": "nic_bot",
+  "version": "1.0.0",
+  "description": "Italian slack bot to help you ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "James",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "slackbots": "^1.2.0"
+  }
+}
